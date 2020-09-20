@@ -4,9 +4,11 @@ I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Elec
 
 ## Publication
 
- We presented a <a href="/docs/papers/icassp-2020.pdf" target="_blank">4-pg version</a> 
+ <a href="/docs/papers/icassp-2020.pdf" target="_blank">Paper 1</a> 
+ 
+## Poster
 
-
+<a href="/docs/papers/Namrata_poster.pdf" target="_blank">Poster</a> 
 
 ### Social Network
 <p float="left">
