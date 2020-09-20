@@ -12,7 +12,7 @@ I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Elec
 
 ### Curriculum Vitae
 <p float="left">
-<a href="/docs/Namrata_Nadagouda_CV.pdf"><img src="/images/cv_logo_clipart_bg_trans.png" height="60" width="60" /></a>
+<a href="/docs/papers/icassp-2020.pdf" target="_blank">CV</a>
 </p>
 
 ### Social Network
