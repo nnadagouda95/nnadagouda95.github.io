@@ -2,33 +2,11 @@
 
 I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering </a> at <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a>.
 
-### Markdown
+## Publication
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ We presented a <a href="/docs/papers/icassp-2020.pdf" target="_blank">4-pg version</a> 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nnadagouda95/namrata/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Social Network
 <p float="left">
