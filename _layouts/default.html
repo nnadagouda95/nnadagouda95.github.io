@@ -23,7 +23,9 @@
 
         <p style="text-align:center">{{ site.description | default: site.github.project_tagline }}</p>
 
-       
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="/docs/Namrata_Nadagouda_CV.pdf">CV</a></p>
+        {% endif %}
 
         {% if site.github.is_user_page %}
         <!--
