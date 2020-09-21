@@ -8,7 +8,7 @@ G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. D
  
 ## Poster
 
-N. Nadagouda, and M. Davenport, <a href="/docs/papers/Namrata_poster.pdf" target="_blank">Switched Hawkes Processes</a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, Richardson, TX, June 2019.</a> 
+N. Nadagouda, and M. Davenport, <a href="/docs/papers/Namrata_poster.pdf" target="_blank">Switched Hawkes Processes</a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, Richardson, TX, June 2019.
 
 ### Social Network
 <p float="left">
