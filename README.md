@@ -10,11 +10,6 @@ I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Elec
 
 <a href="/docs/papers/Namrata_poster.pdf" target="_blank">Poster</a> 
 
-### Curriculum Vitae
-<p float="left">
-<a href="/docs/papers/icassp-2020.pdf" target="_blank">CV</a>
-</p>
-
 ### Social Network
 <p float="left">
 <a href="https://scholar.google.com/citations?user=WPOYaFAAAAAJ&hl=en" target="_blank"><img src="https://nnadagouda95.github.io/images/google-scholar-logo.png" height="30" width="30" /></a>
