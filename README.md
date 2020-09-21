@@ -1,14 +1,14 @@
 ## About Me
 
-I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering </a> at <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a>, advised by <a href="https://www.mdav.ece.gatech.edu/" target="_blank">Prof. Mark Davenport.
+I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering </a> at <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a>, advised by <a href="https://www.mdav.ece.gatech.edu/" target="_blank">Prof. Mark Davenport</a>. My ares of research include adaptive/active learning, learning from similarity comparisons, point processes, switched processes and incremental learning.
 
 ## Publication
 
- <a href="/docs/papers/icassp-2020.pdf" target="_blank">Paper 1</a> 
+ <a href="/docs/papers/icassp-2020.pdf" target="_blank">G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. Davenport, ``The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model'',  in \textit{Proc.\ IEEE Int.\ Conf.\ on Acoustics, Speech and Signal Processing (ICASSP)}, May, 2020.</a> 
  
 ## Poster
 
-<a href="/docs/papers/Namrata_poster.pdf" target="_blank">Poster</a> 
+<a href="/docs/papers/Namrata_poster.pdf" target="_blank">N. Nadagouda, and M. Davenport, ``Switched Hawkes Processes'', at \textit{Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS)}, University of Texas at Dallas, Richardson, TX, June 2019.</a> 
 
 ### Social Network
 <p float="left">
