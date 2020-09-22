@@ -4,7 +4,7 @@ I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Elec
 
 ## Publication
 
-G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. Davenport,  <a href="/docs/papers/icassp-2020.pdf" target="_blank">The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)}, May, 2020. 
+G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. Davenport,  <a href="/docs/papers/icassp-2020.pdf" target="_blank">The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May, 2020. 
  
 ## Poster
 
