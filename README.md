@@ -2,6 +2,12 @@
 
 I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering </a> at <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a>, advised by <a href="https://www.mdav.ece.gatech.edu/" target="_blank">Prof. Mark Davenport</a>. My areas of research include adaptive/active learning, learning from similarity comparisons, incremental learning, learning from streaming data and point processes.
 
+## Current Research
+
+My research focuses on developing theory and algorithms for data efficient methods based on ideas from adaptive learning and incremental learning. I have been working on learning from similarity comparisons and adaptive schemes of selecting these comparisons to significantly reduce the required number of comparisons. Such learning schemes find applications in embedding learning, localization, preference learning and ranking problems. I’m currently working on extending these query selection strategies to active learning for image classification. 
+
+To study the performance of increment-based learning, I have been considering the problem of modeling cascading chains of events in multi-node networks where the data becomes available in a streaming manner. The goal is to develop a streaming optimization based point process estimation method to explain the occurrences of events. Further, I’m interested in developing more comprehensive methods of learning, building upon the ideas of adaptivity and incremental learning and also to draw parallels between the developed methods and related paradigms of machine learning such as continual learning, transfer learning, multi-task learning, meta learning, lifelong learning, and few-shot learning.
+
 ## Publication
 
 G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. Davenport,  <a href="/docs/papers/icassp-2020.pdf" target="_blank">The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May, 2020. 
