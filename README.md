@@ -1,6 +1,6 @@
 ## About Me
 
-I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering </a> at <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a>, advised by <a href="https://www.mdav.ece.gatech.edu/" target="_blank">Prof. Mark Davenport</a>. My ares of research include adaptive/active learning, learning from similarity comparisons, incremental learning, learning from streaming data, and point processes.
+I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering </a> at <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a>, advised by <a href="https://www.mdav.ece.gatech.edu/" target="_blank">Prof. Mark Davenport</a>. My areas of research include adaptive/active learning, learning from similarity comparisons, incremental learning, learning from streaming data, and point processes.
 
 ## Publication
 
