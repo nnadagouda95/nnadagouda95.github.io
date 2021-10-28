@@ -8,13 +8,23 @@ My research focuses on developing theory and algorithms for data efficient metho
 
 To study the performance of increment-based learning, I have been considering the problem of modeling cascading chains of events in multi-node networks where the data becomes available in a streaming manner. The goal is to develop a streaming optimization based point process estimation method to explain the occurrences of events. Further, I’m interested in developing more comprehensive methods of learning, building upon the ideas of adaptivity and incremental learning and also to draw parallels between the developed methods and related paradigms of machine learning such as continual learning, transfer learning, multi-task learning, meta learning, lifelong learning, and few-shot learning.
 
-## Publication
+## Publications
+
+N. Nadagouda, A. Xu and M.~Davenport, Active query selection using nearest neighbors, in preparation. 
+
+N.~Nadagouda and M.~Davenport, Switched Hawkes Processes, in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), June, 2021.
 
 G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. Davenport,  <a href="/docs/papers/icassp-2020.pdf" target="_blank">The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May, 2020. 
  
-## Poster
+## Posters
+
+Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, N. Nadagouda, and M. Davenport, Range-Only Simultaneous Localization and Mapping using Paired Comparisons, at IEEE Annual Conf. on RFID, April 2021.
 
 N. Nadagouda, and M. Davenport, <a href="/docs/papers/Namrata_poster.pdf" target="_blank">Switched Hawkes Processes</a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, Richardson, TX, June 2019.
+
+## Article 
+
+N. Nadagouda, Journey of a researcher: Finding pleasure in the pathless woods, American Ceramic Society Bulletin, Student Perspectives, June/July 2020.
 
 ### Social Network
 <p float="left">
