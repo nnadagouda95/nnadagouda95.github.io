@@ -10,9 +10,9 @@ To study the performance of increment-based learning, I have been considering th
 
 ## Publications
 
-N. Nadagouda, A. Xu and M.~Davenport, Active query selection using nearest neighbors, in preparation. 
+N. Nadagouda, A. Xu and M. Davenport, Active query selection using nearest neighbors, in preparation. 
 
-N.~Nadagouda and M.~Davenport, Switched Hawkes Processes, in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), June, 2021.
+N. Nadagouda and M. Davenport, Switched Hawkes Processes, in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), June, 2021.
 
 G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. Davenport,  <a href="/docs/papers/icassp-2020.pdf" target="_blank">The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May, 2020. 
  
