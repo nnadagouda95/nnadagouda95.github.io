@@ -12,13 +12,13 @@ To study the performance of increment-based learning, I have been considering th
 
 N. Nadagouda, A. Xu and M. Davenport, Active query selection using nearest neighbors, in preparation. 
 
-N. Nadagouda and M. Davenport, Switched Hawkes Processes, in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), June, 2021.
+N. Nadagouda and M. Davenport, <a href="/docs/papers/hawkes_processes_icassp_21.pdf" target="_blank">Switched Hawkes Processes</a>, in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), June, 2021.
 
-G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. Davenport,  <a href="/docs/papers/icassp-2020.pdf" target="_blank">The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May, 2020. 
+G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. Davenport, <a href="/docs/papers/icassp-2020.pdf" target="_blank">The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May, 2020. 
  
 ## Posters
 
-Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, N. Nadagouda, and M. Davenport, Range-Only Simultaneous Localization and Mapping using Paired Comparisons, at IEEE Annual Conf. on RFID, April 2021.
+Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, N. Nadagouda, and M. Davenport, <a href="/docs/papers/slam_rfid_21.pdf" target="_blank">Range-Only Simultaneous Localization and Mapping using Paired Comparisons</a>, at IEEE Annual Conf. on RFID, April 2021.
 
 N. Nadagouda, and M. Davenport, <a href="/docs/papers/Namrata_poster.pdf" target="_blank">Switched Hawkes Processes</a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, Richardson, TX, June 2019.
 
