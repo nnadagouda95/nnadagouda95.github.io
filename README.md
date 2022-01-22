@@ -10,7 +10,7 @@ To study the performance of these methods, I have been considering problems such
 
 ## Publications
 
-N. Nadagouda, A. Xu and M. Davenport, Active query selection using nearest neighbors, in preparation. 
+N. Nadagouda, A. Xu and M. Davenport, "Active metric learning and classification using similarity queries", submitted. 
 
 A. McRae, A. Xu, J. Jin, N. Nadagouda, N. Ahad, P. Guan, S. Karnik, and M. Davenport, "Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons",  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
 
