@@ -12,7 +12,7 @@ To study the performance of these methods, I have been considering problems such
 
 N. Nadagouda, A. Xu and M. Davenport, Active query selection using nearest neighbors, in preparation. 
 
-A. McRae, A. Xu, J. Jin, N. Nadagouda, N. Ahad, P. Guan, S. Karnik, and M. Davenport, "Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons",  in Proc.\ IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
+A. McRae, A. Xu, J. Jin, N. Nadagouda, N. Ahad, P. Guan, S. Karnik, and M. Davenport, "Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons",  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
 
 N. Nadagouda and M. Davenport, <a href="/docs/papers/hawkes_processes_icassp_21.pdf" target="_blank">"Switched Hawkes Processes"</a>, in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), June, 2021.
 
