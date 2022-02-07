@@ -10,9 +10,9 @@ To study the performance of these methods, I have been considering problems such
 
 ## Publications
 
-N. Nadagouda, A. Xu and M. Davenport, "Active metric learning and classification using similarity queries", submitted. 
+N. Nadagouda, A. Xu and M. Davenport, <a href="https://arxiv.org/abs/2202.01953" target="_blank">"Active metric learning and classification using similarity queries"</a>, submitted. 
 
-A. McRae, A. Xu, J. Jin, N. Nadagouda, N. Ahad, P. Guan, S. Karnik, and M. Davenport, "Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons",  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
+A. McRae, A. Xu, J. Jin, N. Nadagouda, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
 
 N. Nadagouda and M. Davenport, <a href="/docs/papers/hawkes_processes_icassp_21.pdf" target="_blank">"Switched Hawkes Processes"</a>, in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), June, 2021.
 
