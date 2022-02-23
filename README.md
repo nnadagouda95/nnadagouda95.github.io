@@ -10,23 +10,23 @@ To study the performance of these methods, I have been considering problems such
 
 ## Publications
 
-N. Nadagouda, A. Xu and M. Davenport, <a href="https://arxiv.org/abs/2202.01953" target="_blank">"Active metric learning and classification using similarity queries"</a>, submitted. 
+<b>N. Nadagouda</b>, A. Xu and M. Davenport, <a href="https://arxiv.org/abs/2202.01953" target="_blank">"Active metric learning and classification using similarity queries"</a>, submitted. 
 
-A. McRae, A. Xu, J. Jin, N. Nadagouda, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
+A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
 
-N. Nadagouda and M. Davenport, <a href="/docs/papers/hawkes_processes_icassp_21.pdf" target="_blank">"Switched Hawkes Processes"</a>, in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), June, 2021.
+<b>N. Nadagouda</b> and M. Davenport, <a href="/docs/papers/hawkes_processes_icassp_21.pdf" target="_blank">"Switched Hawkes Processes"</a>, in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), June, 2021.
 
-G. Canal, M. Connor, J. Jin, N. Nadagouda, M. O'Shaughnessy, C. Rozell, and M. Davenport, <a href="/docs/papers/icassp-2020.pdf" target="_blank">"The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model"</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May, 2020. 
+G. Canal, M. Connor, J. Jin, <b>N. Nadagouda</b>, M. O'Shaughnessy, C. Rozell, and M. Davenport, <a href="/docs/papers/icassp-2020.pdf" target="_blank">"The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model"</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May, 2020. 
  
 ## Posters
 
-Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, N. Nadagouda, and M. Davenport, <a href="/docs/papers/slam_rfid_21.pdf" target="_blank">"Range-Only Simultaneous Localization and Mapping using Paired Comparisons"</a>, at IEEE Annual Conf. on RFID, April 2021.
+Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, <b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/slam_rfid_21.pdf" target="_blank">"Range-Only Simultaneous Localization and Mapping using Paired Comparisons"</a>, at IEEE Annual Conf. on RFID, April 2021.
 
-N. Nadagouda, and M. Davenport, <a href="/docs/papers/Namrata_poster.pdf" target="_blank">"Switched Hawkes Processes"</a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, Richardson, TX, June 2019.
+<b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/Namrata_poster.pdf" target="_blank">"Switched Hawkes Processes"</a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, Richardson, TX, June 2019.
 
 ## Article 
 
-N. Nadagouda, Journey of a researcher: Finding pleasure in the pathless woods, American Ceramic Society Bulletin, Student Perspectives, June/July 2020.
+<b>N. Nadagouda</b>, Journey of a researcher: Finding pleasure in the pathless woods, American Ceramic Society Bulletin, Student Perspectives, June/July 2020.
 
 ### Social Network
 <p float="left">
