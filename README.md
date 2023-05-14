@@ -10,7 +10,7 @@ I’m interested in leveraging similarity comparisons to motivate task agnostic 
 
 ## Publications
 
-<b>N. Nadagouda</b>, A. Xu and M. Davenport, <a href="https://arxiv.org/abs/2202.01953" target="_blank">"Active metric learning and classification using similarity queries"</a>,  at Human in the Loop Learning Workshop, Neural Information Processing Systems (NeurIPS), December 2022.
+<b>N. Nadagouda</b>, A. Xu and M. Davenport, <a href="https://arxiv.org/abs/2202.01953" target="_blank">"Active metric learning and classification using similarity queries"</a>, in Uncertainty in Artificial Intelligence (UAI), August 2023. Also presented at Human in the Loop Learning Workshop, Neural Information Processing Systems (NeurIPS), December 2022.
 
 A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
 
