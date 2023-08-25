@@ -20,7 +20,7 @@ G. Canal, M. Connor, J. Jin, <b>N. Nadagouda</b>, M. O'Shaughnessy, C. Rozell, a
  
 ## Abstracts
 
-N. Ahad, <b>N. Nadagouda</b>, E. Dyer and M. Davenport, <a href="https://dmlr.ai/assets/accepted-papers/100/CameraReady/camera_ready_paper.pdf" target="blank">``Active learning for time instant classification"</a>, at Data-centric Machine Learning Research Workshop, International Conference on Machine Learning (ICML), July 2023. 
+N. Ahad, <b>N. Nadagouda</b>, E. Dyer and M. Davenport, <a href="https://dmlr.ai/assets/accepted-papers/100/CameraReady/camera_ready_paper.pdf" target="blank">''Active learning for time instant classification"</a>, at Data-centric Machine Learning Research Workshop, International Conference on Machine Learning (ICML), July 2023. 
 
 Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, <b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/slam_rfid_21.pdf" target="_blank">"Range-Only Simultaneous Localization and Mapping using Paired Comparisons"</a>, at IEEE Annual Conf. on RFID, April 2021.
 
