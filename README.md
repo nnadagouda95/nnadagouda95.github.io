@@ -24,7 +24,7 @@ N. Ahad, <b>N. Nadagouda</b>, E. Dyer and M. Davenport, <a href="https://dmlr.ai
 
 Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, <b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/slam_rfid_21.pdf" target="_blank">"Range-Only Simultaneous Localization and Mapping using Paired Comparisons"</a>, at <a href="https://2021.ieee-rfid.org/" target="_blank">IEEE Annual Conf. on RFID</a>, April 2021.
 
-<b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/Namrata_poster.pdf" target="_blank">"Switched Hawkes Processes"</a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, Richardson, TX, June 2019.
+<b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/Namrata_poster.pdf" target="_blank">"Switched Hawkes Processes"</a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, June 2019.
 
 ## Article 
 
