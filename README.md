@@ -20,6 +20,8 @@ G. Canal, M. Connor, J. Jin, <b>N. Nadagouda</b>, M. O'Shaughnessy, C. Rozell, a
  
 ## Abstracts
 
+<b>N. Nadagouda</b> and M. Davenport, <a href="/docs/papers/active_query_synthesis_poster.pdf" target="blank">"Active query synthesis for preference learning"</a>, at <a href="[blank](https://sites.google.com/umich.edu/wiml2023/home?authuser=0)" target="_blank">Women in Machine Learning Workshop</a>, Neural Information Processing Systems (NeurIPS), December 2023. 
+
 N. Ahad, <b>N. Nadagouda</b>, E. Dyer and M. Davenport, <a href="https://dmlr.ai/assets/accepted-papers/100/CameraReady/camera_ready_paper.pdf" target="blank">"Active learning for time instant classification"</a>, at <a href="https://dmlr.ai/" target="_blank">Data-centric Machine Learning Research Workshop</a>, International Conference on Machine Learning (ICML), July 2023. 
 
 Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, <b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/slam_rfid_21.pdf" target="_blank">"Range-Only Simultaneous Localization and Mapping using Paired Comparisons"</a>, at <a href="https://2021.ieee-rfid.org/" target="_blank">IEEE Annual Conf. on RFID</a>, April 2021.
