@@ -10,7 +10,7 @@ I’m interested in leveraging similarity comparisons to motivate task agnostic 
 
 ## Publications
 
-<b>N. Nadagouda</b>, A. Xu and M. Davenport, <a href="https://arxiv.org/abs/2202.01953" target="_blank">"Active metric learning and classification using similarity queries"</a>, in <a href="https://www.auai.org/uai2023/" target="_blank">Uncertainty in Artificial Intelligence (UAI)</a>, August 2023. Also presented at <a href="https://neurips-hill.github.io/" target="_blank">Human in the Loop Learning Workshop</a>, Neural Information Processing Systems (NeurIPS), December 2022.
+<b>N. Nadagouda</b>, A. Xu and M. Davenport, <a href="[https://arxiv.org/abs/2202.01953](https://proceedings.mlr.press/v216/nadagouda23a/nadagouda23a.pdf)" target="_blank">"Active metric learning and classification using similarity queries"</a>, in <a href="https://www.auai.org/uai2023/" target="_blank">Uncertainty in Artificial Intelligence (UAI)</a>, August 2023. Also presented at <a href="https://neurips-hill.github.io/" target="_blank">Human in the Loop Learning Workshop</a>, Neural Information Processing Systems (NeurIPS), December 2022.
 
 A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in <a href="https://2022.ieeeicassp.org/" target ="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, May 2022.
 
