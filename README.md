@@ -16,7 +16,7 @@ I’m interested in leveraging similarity comparisons to motivate task agnostic 
 
 A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in <a href="https://2022.ieeeicassp.org/" target ="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, May 2022.
 
-<b>N. Nadagouda</b> and M. Davenport, <a href="/docs/papers/hawkes_processes_icassp_21.pdf" target="_blank">"Switched Hawkes Processes"</a>, in <a href="https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html" target="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, June, 2021.
+<b>N. Nadagouda</b> and M. Davenport, <a href="/docs/papers/hawkes_processes_icassp_21.pdf" target="_blank">"Switched Hawkes Processes"</a>, in <a href="https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html" target="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, June, 2021. <a href="/docs/papers/Namrata_poster.pdf" target="_blank">Preliminary results presented at </a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, June 2019.
 
 G. Canal, M. Connor, J. Jin, <b>N. Nadagouda</b>, M. O'Shaughnessy, C. Rozell, and M. Davenport, <a href="/docs/papers/icassp-2020.pdf" target="_blank">"The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model"</a>,  in <a href="https://2020.ieeeicassp.org/" target="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, May, 2020. 
  
@@ -25,8 +25,6 @@ G. Canal, M. Connor, J. Jin, <b>N. Nadagouda</b>, M. O'Shaughnessy, C. Rozell, a
 N. Ahad, <b>N. Nadagouda</b>, E. Dyer and M. Davenport, <a href="https://dmlr.ai/assets/accepted-papers/100/CameraReady/camera_ready_paper.pdf" target="blank">"Active learning for time instant classification"</a>, at <a href="https://dmlr.ai/" target="_blank">Data-centric Machine Learning Research Workshop</a>, International Conference on Machine Learning (ICML), July 2023. 
 
 Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, <b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/slam_rfid_21.pdf" target="_blank">"Range-Only Simultaneous Localization and Mapping using Paired Comparisons"</a>, at <a href="https://2021.ieee-rfid.org/" target="_blank">IEEE Annual Conf. on RFID</a>, April 2021.
-
-<b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/Namrata_poster.pdf" target="_blank">"Switched Hawkes Processes"</a>, at Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS), University of Texas at Dallas, June 2019.
 
 ## Article 
 
