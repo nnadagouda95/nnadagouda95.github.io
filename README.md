@@ -10,6 +10,8 @@ I’m interested in leveraging similarity comparisons to motivate task agnostic 
 
 ## Publications
 
+<b>N. Nadagouda</b>, N. Ahad, M. Tucker and M. Davenport, <a href="https://arxiv.org/pdf/2605.26072" target="blank">"Active query synthesis for preference learning"</a>, <i>Under review</i>. <a href="/docs/papers/active_query_synthesis_poster.pdf" target="blank">Preliminary results presented at <a href="https://sites.google.com/umich.edu/wiml2023/home?authuser=0" target="blank">Women in Machine Learning Workshop</a>, Neural Information Processing Systems (NeurIPS), December 2023. 
+
 <b>N. Nadagouda</b>, A. Xu and M. Davenport, <a href="https://proceedings.mlr.press/v216/nadagouda23a/nadagouda23a.pdf" target="_blank">"Active metric learning and classification using similarity queries"</a>, in <a href="https://www.auai.org/uai2023/" target="_blank">Uncertainty in Artificial Intelligence (UAI)</a>, August 2023. Also presented at <a href="https://neurips-hill.github.io/" target="_blank">Human in the Loop Learning Workshop</a>, Neural Information Processing Systems (NeurIPS), December 2022.
 
 A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in <a href="https://2022.ieeeicassp.org/" target ="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, May 2022.
@@ -19,8 +21,6 @@ A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M
 G. Canal, M. Connor, J. Jin, <b>N. Nadagouda</b>, M. O'Shaughnessy, C. Rozell, and M. Davenport, <a href="/docs/papers/icassp-2020.pdf" target="_blank">"The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model"</a>,  in <a href="https://2020.ieeeicassp.org/" target="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, May, 2020. 
  
 ## Abstracts
-
-<b>N. Nadagouda</b> and M. Davenport, <a href="/docs/papers/active_query_synthesis_poster.pdf" target="blank">"Active query synthesis for preference learning"</a>, at <a href="https://sites.google.com/umich.edu/wiml2023/home?authuser=0" target="blank">Women in Machine Learning Workshop</a>, Neural Information Processing Systems (NeurIPS), December 2023. 
 
 N. Ahad, <b>N. Nadagouda</b>, E. Dyer and M. Davenport, <a href="https://dmlr.ai/assets/accepted-papers/100/CameraReady/camera_ready_paper.pdf" target="blank">"Active learning for time instant classification"</a>, at <a href="https://dmlr.ai/" target="_blank">Data-centric Machine Learning Research Workshop</a>, International Conference on Machine Learning (ICML), July 2023. 
 
