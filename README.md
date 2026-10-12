@@ -16,7 +16,7 @@ I’m interested in leveraging similarity comparisons to motivate task agnostic 
 <br>
 [<a href="https://youtu.be/51EZFpvHIdM" target="_blank">video</a>] [<a href="/docs/papers/infoNN_uai_poster.pdf" target="blank">poster</a>]
 
-A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in <a href="https://2022.ieeeicassp.org/" target ="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, May 2022.
+A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
 <br>
 [<a href="/docs/papers/ICASSP2022_Poster.pdf" target="blank">poster</a>]
 
