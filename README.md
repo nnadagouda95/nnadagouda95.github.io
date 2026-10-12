@@ -1,19 +1,19 @@
 ## About Me
 
-I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering </a> at <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a>, advised by <a href="https://www.mdav.ece.gatech.edu/" target="_blank">Prof. Mark Davenport</a>. My areas of research include active learning and learning from similarity comparisons.
+I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering </a> at <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a>, advised by <a href="https://www.mdav.ece.gatech.edu/" target="_blank">Prof. Mark Davenport</a>. My areas of research include active learning and learning from comparisons.
 
 ## Current Research
 
-My research focuses on developing methods for making machine learning more data efficient using the paradigms of active learning and learning from preferences. Active learning reduces the label complexity of a task by selecting the most informative samples to label. Preferences and comparisons are a natural source of feedback because it is easier for people to compare samples than to evaluate each one individually.
+My research focuses on developing methods for making machine learning more data efficient using the paradigms of active learning and learning from comparisons. Active learning reduces the label complexity of a task by selecting the most informative samples to label. Comparisons are a natural source of feedback because it is easier for people to compare samples than to evaluate each one individually.
 
-I am interested in motivating task agnostic active learning frameworks by casting different problems as learning from preferences or comparisons. I also design active methods that account for the biases that influence human responses. In my recent work, I proposed a confidence aware response model for pairwise comparisons, which captures how the reliability of a response depends on the similarity of the compared options. Building on this model, I developed an active query synthesis framework that generates informative queries directly instead of searching through a pool of candidates, which reduces computational cost while matching the sample efficiency of pool-based methods. 
+I am interested in motivating task agnostic active learning frameworks by casting different problems as learning from comparisons. I also design active methods that account for the biases that influence human responses. In my recent work, I proposed a confidence aware response model for pairwise comparisons, which captures how the reliability of a response depends on the similarity of the compared options. Building on this model, I developed an active query synthesis framework that generates informative queries directly instead of searching through a pool of candidates, which reduces computational cost while matching the sample efficiency of pool-based methods. 
 
 I am also interested in how the problem setting and the data modality shape the design of active data selection methods. To study these methods, I have worked on: 
 
 - **Metric learning:** learn a data representation from similarity comparisons between data points.
 - **Classification:** acquire labels by soliciting responses to similarity comparisons between data points.
-- **Preference learning:** estimate a user's preferences from their pairwise comparisons between items.
-- **Control parameter tuning:** find optimal controller settings from a user's pairwise comparisons between trajectories.
+- **Preference learning:** estimate a user's preferences from pairwise comparisons between items.
+- **Control parameter tuning:** find optimal controller settings from pairwise comparisons between trajectories.
 
 ## Publications
 
