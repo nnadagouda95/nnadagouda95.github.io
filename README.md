@@ -16,8 +16,12 @@ I’m interested in leveraging similarity comparisons to motivate task agnostic 
 
 A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M. Davenport, <a href="/docs/papers/delta_distancing_icassp_22.pdf" target="_blank">"Delta Distancing: A Lifting Approach to Localizing Items From User Comparisons"</a>,  in <a href="https://2022.ieeeicassp.org/" target ="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, May 2022.
 
+</div>
 <b>N. Nadagouda</b> and M. Davenport, <a href="/docs/papers/hawkes_processes_icassp_21.pdf" target="_blank">"Switched Hawkes Processes"</a>, in <a href="https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html" target="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, June, 2021. <a href="/docs/papers/Namrata_poster.pdf" target="_blank"> Preliminary results</a> presented at <a href="https://sites.google.com/site/utd2019workshop/" target="_blank">Workshop on Recent Developments on Mathematical/Statistical approaches in Data Science (MSDAS)</a>, University of Texas at Dallas, June 2019.
+</div>
+</div>
 [<a href="https://youtu.be/b1o-ybEvxu4" target="_blank">video</a>]
+</div>
 
 G. Canal, M. Connor, J. Jin, <b>N. Nadagouda</b>, M. O'Shaughnessy, C. Rozell, and M. Davenport, <a href="/docs/papers/icassp-2020.pdf" target="_blank">"The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model"</a>,  in <a href="https://2020.ieeeicassp.org/" target="_blank">Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)</a>, May, 2020. 
  
