@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Info-Synth synthesizes informative, confidence aware pairwise queries for preference learning.">
+  <meta property="og:title" content="Active Query Synthesis for Learning from Preferences">
+  <meta property="og:description" content="Confidence aware active query synthesis for preference learning.">
+  <meta property="og:type" content="website">
+  <title>Info-Synth | Active Query Synthesis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./script.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <nav class="nav wrap" aria-label="Primary navigation">
+    <a class="brand" href="#top" aria-label="Info-Synth home">
+      <svg class="mark" viewBox="0 0 32 32" role="img" aria-label="Two points separated by an informative query boundary"><circle cx="8" cy="16" r="4"/><circle cx="24" cy="16" r="4"/><path d="M16 4v24M12 8l4-4 4 4"/></svg>
+      <span>Info-Synth</span>
+    </a>
+    <div class="nav-links">
+      <a href="#method">Method</a><a href="#evaluation">Evaluation</a><a href="#citation">Citation</a>
+      <button class="theme" type="button" data-theme-toggle aria-label="Switch color theme"><span aria-hidden="true">◐</span></button>
+    </div>
+  </nav>
+</header>
+<main id="main">
+  <section class="hero wrap" id="top">
+    <div class="hero-copy">
+      <p class="eyebrow">Learning from Preferences · Active learning · Query synthesis</p>
+      <h1>Active Query Synthesis for Learning from Preferences</h1>
+      <p class="dek">Generate pairwise comparisons that are both informative and easier to answer, without exhaustively scoring a large query pool.</p>
+      <p class="authors">Namrata Nadagouda · Nauman Ahad · Maegan Tucker · Mark A. Davenport</p>
+      <div class="actions">
+        <a class="button primary" href="https://arxiv.org/pdf/2605.26072" target="_blank" rel="noopener noreferrer">Read paper <span aria-hidden="true">↗</span></a>
+      </div>
+    </div>
+    <figure class="media hero-media">
+      <div class="image-shell">
+        <img src="./assets/fig-framework.png" width="1600" height="900" alt="Info-Synth active query synthesis and approximation framework" loading="eager" decoding="async">
+        <div class="placeholder"><strong>Add Figure 2</strong><code>assets/fig-framework.png</code></div>
+      </div>
+      <figcaption>Info-Synth generates an optimal continuous query; Pair M-dist and Pair Opt-dist map it to allowable dataset pairs when needed.</figcaption>
+    </figure>
+  </section>
+
+  <section class="problem band" id="overview">
+    <div class="wrap narrow">
+      <p class="section-no">01 / Motivation</p>
+      <h2>A useful query must be informative <em>and</em> answerable.</h2>
+      <p>Standard pairwise comparison response models can treat every comparison as equally reliable. In practice, near identical options are difficult to distinguish, while highly dissimilar options may lack a meaningful common ground for comparison.</p>
+      <figure class="media wide-media">
+        <div class="image-split-3" style="display: grid; grid-template-columns: 23fr 23fr 33fr; gap: var(--space-4); align-items: end;">
+          <div class="image-shell short" style="border: none; box-shadow: none; background: transparent; min-height: 0;">
+            <img src="./assets/fig-query-confidence-1.png" alt="(a) Ideal query" loading="lazy" decoding="async" style="width: 100%; height: auto; object-fit: contain; border-radius: var(--radius-lg);">
+            <div class="placeholder"><strong>Add Figure 1a</strong><code>assets/fig-query-confidence-1.png</code></div>
+          </div>
+          <div class="image-shell short" style="border: none; box-shadow: none; background: transparent; min-height: 0; display: flex; justify-content: center;">
+            <img src="./assets/fig-query-confidence-2.png" alt="(b) Points are too close" loading="lazy" decoding="async" style="width: 80%; height: auto; object-fit: contain; border-radius: var(--radius-lg);">
+            <div class="placeholder"><strong>Add Figure 1b</strong><code>assets/fig-query-confidence-2.png</code></div>
+          </div>
+          <div class="image-shell short" style="border: none; box-shadow: none; background: transparent; min-height: 0;">
+            <img src="./assets/fig-query-confidence-3.png" alt="(c) Points are too far away" loading="lazy" decoding="async" style="width: 100%; height: auto; object-fit: contain; border-radius: var(--radius-lg);">
+            <div class="placeholder"><strong>Add Figure 1c</strong><code>assets/fig-query-confidence-3.png</code></div>
+          </div>
+        </div>
+        <figcaption>The confidence aware response model favors comparisons at an intermediate, perceptible level of similarity.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="method wrap" id="method">
+    <div class="section-head">
+      <div><p class="section-no">02 / Method</p><h2>From response reliability to closed-form query geometry.</h2></div>
+      <p>The framework localizes an unknown preference vector with Bayesian updates and chooses the next pair by maximizing mutual information.</p>
+    </div>
+    <div class="method-grid">
+      <article class="feature">
+        <span class="kicker">Confidence aware response model</span>
+        <h3>Reliability depends on the geometry of the pair.</h3>
+        <p>The model uses heteroskedastic noise tied to distances between the user and each candidate, naturally discouraging comparisons that are too close or too far apart.</p>
+        <div class="formula" aria-label="Probability of a response given user preference" style="margin-top: auto; display: flex; align-items: center; justify-content: center; gap: 0.5rem; font-style: normal; font-family: 'Times New Roman', Times, serif;">
+          <span><i>P</i>(<i>Y</i>|<b>w</b>) = Φ</span>
+          <span style="font-size: 2.2em; font-weight: 300;">(</span>
+          <div style="display: flex; flex-direction: column; align-items: center; font-size: 0.85em; line-height: 1.4;">
+            <span style="padding-bottom: 0.3rem; border-bottom: 1px solid currentColor; letter-spacing: 0.02em;">‖<b>w</b> − <b>q</b>‖² − ‖<b>w</b> − <b>p</b>‖²</span>
+            <span style="padding-top: 0.3rem; letter-spacing: 0.02em;">σ₀ √<span style="text-decoration: overline;">‖<b>w</b> − <b>q</b>‖⁴ + ‖<b>w</b> − <b>p</b>‖⁴</span></span>
+          </div>
+          <span style="font-size: 2.2em; font-weight: 300;">)</span>
+        </div>
+      </article>
+      <article class="feature" style="grid-row: span 2; display: flex; flex-direction: column; justify-content: center; gap: var(--space-6);">
+        <span class="kicker">Approximation methods</span>
+        <div>
+          <p class="section-no">Lower dimensional datasets</p>
+          <h3 style="margin-top: var(--space-2);">Pair M-dist</h3>
+          <p style="margin-bottom: 0;">A Hessian induced Mahalanobis metric filters candidate pairs before mutual information refinement.</p>
+        </div>
+        <div>
+          <p class="section-no">Higher dimensional datasets</p>
+          <h3 style="margin-top: var(--space-2);">Pair Opt-dist</h3>
+          <p style="margin-bottom: 0;">An optimality based surrogate filters candidate pairs by midpoint, direction and distance deviations, avoiding the expensive Hessian.</p>
+        </div>
+      </article>
+      <article class="feature">
+        <span class="kicker">Query Synthesis method: Info-Synth</span>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-6);">
+          <div>
+            <h3 style="margin-top: 0;">Center at the posterior mean.</h3>
+            <p>The optimal query midpoint lies at the current posterior mean, ensuring equi-probability of the response outcomes.</p>
+          </div>
+          <div>
+            <h3 style="margin-top: 0;">Align with maximum uncertainty.</h3>
+            <p>The pair is oriented along the principal eigenvector of the posterior covariance; its distance follows from a one-dimensional optimization.</p>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="evaluation band" id="evaluation">
+    <div class="wrap">
+      <div class="section-head">
+        <div><p class="section-no">03 / Evaluation</p><h2>One framework, four evaluation settings.</h2></div>
+        <p>The evaluation spans a user study, synthetic preference learning, a fixed text summary dataset, and continuous controller tuning.</p>
+      </div>
+      <div class="experiments">
+        <article class="experiment feature-experiment">
+          <div><span class="number">01</span><h3>Human color estimation</h3><p>A color estimation study tests whether the confidence aware model better captures how people answer pairwise comparison queries.</p></div>
+          <div class="image-split">
+            <div class="image-shell"><img src="./assets/fig-user-study-1.png" width="1200" height="760" alt="Human color-estimation study results 1" loading="lazy" decoding="async"><div class="placeholder"><strong>Add user-study figure 1</strong><code>assets/fig-user-study-1.png</code></div></div>
+            <div class="image-shell"><img src="./assets/fig-user-study-2.png" width="1200" height="760" alt="Human color-estimation study results 2" loading="lazy" decoding="async"><div class="placeholder"><strong>Add user-study figure 2</strong><code>assets/fig-user-study-2.png</code></div></div>
+          </div>
+        </article>
+        <article class="experiment feature-experiment">
+          <div><span class="number">02</span><h3>Reddit TL;DR summaries</h3><p>Pair approximation is evaluated in a high dimensional embedding space under a fixed pool of allowable summary comparisons.</p></div>
+          <div class="image-split">
+            <div class="image-shell"><img src="./assets/fig-text-1.png" width="1200" height="760" alt="Text-summary preference-learning results 1" loading="lazy" decoding="async"><div class="placeholder"><strong>Add text results 1</strong><code>assets/fig-text-1.png</code></div></div>
+            <div class="image-shell"><img src="./assets/fig-text-2.png" width="1200" height="760" alt="Text-summary preference-learning results 2" loading="lazy" decoding="async"><div class="placeholder"><strong>Add text results 2</strong><code>assets/fig-text-2.png</code></div></div>
+          </div>
+        </article>
+        <article class="experiment"><div><span class="number">03</span><h3>Synthetic preference learning</h3><p>Continuous synthesis and approximation is evaluated in a low dimensional setting.</p></div><div class="image-shell"><img src="./assets/fig-synthetic.png" width="1200" height="760" alt="Synthetic preference-learning results" loading="lazy" decoding="async"><div class="placeholder"><strong>Add synthetic results</strong><code>assets/fig-synthetic.png</code></div></div></article>
+        <article class="experiment"><div><span class="number">04</span><h3>Robot controller tuning</h3><p>Continuous query synthesis selects pairs of controller gains for subjective trajectory-quality comparisons.</p></div><div class="image-shell"><img src="./assets/fig-robot.png" width="1200" height="760" alt="Simulated robot controller-gain tuning results" loading="lazy" decoding="async"><div class="placeholder"><strong>Add robot results</strong><code>assets/fig-robot.png</code></div></div></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="takeaway wrap">
+    <p class="section-no">04 / Takeaway</p>
+    <blockquote>Effective preference queries should be informative about the user while avoiding comparisons that are too similar or too dissimilar to answer reliably.</blockquote>
+  </section>
+
+  <section class="citation band" id="citation">
+    <div class="wrap citation-grid">
+      <div><p class="section-no">05 / Citation</p><h2>Cite this work</h2></div>
+      <div>
+        <pre id="bibtex"><code>@article{nadagouda2026active,
+  title   = {Active Query Synthesis for Preference Learning},
+  author  = {Nadagouda, Namrata and Ahad, Nauman and
+             Tucker, Maegan and Davenport, Mark A.},
+  journal = {arXiv preprint arXiv:2605.26072},
+  year    = {2026}
+}</code></pre>
+        <button class="copy" type="button" data-copy="#bibtex">Copy BibTeX</button>
+      </div>
+    </div>
+  </section>
+</main>
+<footer class="footer"><div class="wrap"><p>Active Query Synthesis for Learning from Preferences</p><div><a href="https://nnadagouda95.github.io" target="_blank" rel="noopener noreferrer">Namrata Nadagouda</a></div></div></footer>
+</body>
+</html>
