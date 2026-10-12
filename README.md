@@ -4,9 +4,16 @@ I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Elec
 
 ## Current Research
 
-My research focuses on developing methods for learning data efficient models based on learning from similarity comparisons and active learning. The motivation behind using comparisons comes from the idea that it is easier to compare differentdata samples than evaluate every sample on an absolute basis. Active learning aims to reduce the label complexity of tasks by selecting the most informative samples to be labeled. 
+My research focuses on developing methods for making machine learning more data efficient using the paradigms of active learning and learning from preferences. Active learning reduces the label complexity of a task by selecting the most informative samples to label. Preferences and comparisons are a natural source of feedback because it is easier for people to compare samples than to evaluate each one individually.
 
-I’m interested in leveraging similarity comparisons to motivate task agnostic active learning schemes and also designing active methods to select labels while considering the bias influencing human responses. I’m interested in understanding how the problem considered and the modality of the data affect the design of active data selection methods. To study the performance of these methods, I have worked on problems such as metric learning - which involves learning a representation of objects via comparisons of distances between them, classification - where label acquisition is formulated as a problem of soliciting responses to similarity queries and preference learning - where the objective is to estimate a user based on their item preferences. 
+I am interested in motivating task agnostic active learning frameworks by casting different problems as learning from preferences or comparisons. I also design active methods that account for the biases that influence human responses. In my recent work, I proposed a confidence aware response model for pairwise comparisons, which captures how the reliability of a response depends on the similarity of the compared options. Building on this model, I developed an active query synthesis framework that generates informative queries directly instead of searching through a pool of candidates, which reduces computational cost while matching the sample efficiency of pool-based methods. 
+
+I am also interested in how the problem setting and the data modality shape the design of active data selection methods. To study these methods, I have worked on: 
+
+- **Metric learning:** learn a data representation from similarity comparisons between data points.
+- **Classification:** acquire labels by soliciting responses to similarity comparisons between data points.
+- **Preference learning:** estimate a user's preferences from their pairwise comparisons between items.
+- **Control parameter tuning:** find optimal controller settings from a user's pairwise comparisons between trajectories.
 
 ## Publications
 
