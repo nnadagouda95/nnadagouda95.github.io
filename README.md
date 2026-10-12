@@ -10,10 +10,10 @@ I am interested in motivating task agnostic active learning frameworks by castin
 
 I am also interested in how the problem setting and the data modality shape the design of active data selection methods. To study these methods, I have worked on: 
 
-- **Metric learning:** learn a data representation from similarity comparisons between data points.
-- **Classification:** acquire labels by soliciting responses to similarity comparisons between data points.
 - **Preference learning:** estimate a user's preferences from pairwise comparisons between items.
 - **Control parameter tuning:** find optimal controller settings from pairwise comparisons between trajectories.
+- **Metric learning:** learn a data representation from similarity comparisons between data points.
+- **Classification:** acquire labels by soliciting responses to similarity comparisons between data points.
 
 ## Publications
 
