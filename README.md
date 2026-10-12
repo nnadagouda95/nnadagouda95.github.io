@@ -10,7 +10,7 @@ I’m interested in leveraging similarity comparisons to motivate task agnostic 
 
 ## Publications
 
-<b>N. Nadagouda</b>, N. Ahad, M. Tucker and M. Davenport, <a href="https://arxiv.org/pdf/2605.26072" target="blank">"Active query synthesis for preference learning"</a>, <i>Under review</i>. Also <a href="/docs/papers/active_query_synthesis_poster.pdf" target="blank"> presented</a> at <a href="https://sites.google.com/wimlworkshop.org/wimlsymposium-2026/" target="blank">Women in Machine Learning Symposium</a>, International Conference on Machine Learning (ICML), July 2026.
+<b>N. Nadagouda</b>, N. Ahad, M. Tucker and M. Davenport, <a href="https://arxiv.org/pdf/2605.26072" target="blank">"Active query synthesis for learning from preferences"</a>, <i>Under review</i>. Also <a href="/docs/papers/active_query_synthesis_poster.pdf" target="blank"> presented</a> at <a href="https://sites.google.com/wimlworkshop.org/wimlsymposium-2026/" target="blank">Women in Machine Learning Symposium</a>, International Conference on Machine Learning (ICML), July 2026.
 <br>
 [<a href="/info-synth/" target="blank">website</a>]
 
