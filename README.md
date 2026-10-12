@@ -24,12 +24,13 @@ A. McRae, A. Xu, J. Jin, <b>N. Nadagouda</b>, N. Ahad, P. Guan, S. Karnik, and M
 <br>
 [<a href="https://youtu.be/b1o-ybEvxu4" target="_blank">video</a>] [<a href="/docs/papers/hawkes_processes_icassp_21_poster.pdf" target="blank"> poster</a>]
 
-
 G. Canal, M. Connor, J. Jin, <b>N. Nadagouda</b>, M. O'Shaughnessy, C. Rozell, and M. Davenport, <a href="/docs/papers/icassp-2020.pdf" target="_blank">"The Picasso Algorithm for Bayesian Localization Via Paired Comparisons in a Union of Subspaces Model"</a>,  in Proc. IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), May, 2020. 
  
 ## Abstracts
 
 N. Ahad, <b>N. Nadagouda</b>, E. Dyer and M. Davenport, <a href="https://dmlr.ai/assets/accepted-papers/100/CameraReady/camera_ready_paper.pdf" target="blank">"Active learning for time instant classification"</a>, at <a href="https://dmlr.ai/" target="_blank">Data-centric Machine Learning Research Workshop</a>, International Conference on Machine Learning (ICML), July 2023. 
+<br>
+[<a href="/docs/papers/TS_ICML_DMLR.pdf" target="blank"> poster</a>]
 
 Y. Teng, A. Mamuye, E. Mo, K. Zhu, R. Walker, <b>N. Nadagouda</b>, and M. Davenport, <a href="/docs/papers/slam_rfid_21.pdf" target="_blank">"Range-Only Simultaneous Localization and Mapping using Paired Comparisons"</a>, at <a href="https://2021.ieee-rfid.org/" target="_blank">IEEE Annual Conf. on RFID</a>, April 2021.
 
